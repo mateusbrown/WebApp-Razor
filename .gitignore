@@ -1,0 +1,4 @@
+#Não considerar diretórios .vscode, bin e obj
+/bin
+/obj
+/.vscode
